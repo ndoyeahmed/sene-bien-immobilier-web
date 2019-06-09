@@ -26,9 +26,9 @@ class LoginPage extends React.Component {
             auth.login(this.state).then((result) => {
                 let responseJSON = result;
                 // console.log(responseJSON);
-                if (responseJSON.success) {
+                if (responseJSON) {
                     // console.log("welcome");
-                    sessionStorage.setItem("userData", responseJSON.success);
+                    sessionStorage.setItem('userData', JSON.stringify(responseJSON));
                     this.setState({redirectToRefferer: true});
 
                 } else {

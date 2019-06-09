@@ -4,6 +4,7 @@ import {ProtectedRoute} from "./utils/protected.route";
 import HomePage from "./layout/home.page";
 import {Route, Router} from 'react-router-dom';
 import {createBrowserHistory} from "history";
+import UtilisateurPage from "./Components/Utilisateur/utilisateur.page";
 
 class AppRoute extends React.Component {
     render() {
@@ -13,6 +14,7 @@ class AppRoute extends React.Component {
                 <Route path='/' exact component={LoginPage}/>
                 <Route path='/login' exact component={LoginPage}/>
                 <ProtectedRoute path='/home' exact component={HomePage}/>
+                <ProtectedRoute path='/utilisateur' exact component={UtilisateurPage}/>
             </Router>
         )
     }
