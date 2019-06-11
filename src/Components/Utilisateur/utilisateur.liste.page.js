@@ -1,6 +1,5 @@
 import React from 'react';
 import UtilisateurService from '../../services/utilisateur.service';
-import auth from "../../services/auth";
 
 export default class UtilisateurListPage extends React.Component {
     constructor(props) {
@@ -36,20 +35,8 @@ export default class UtilisateurListPage extends React.Component {
                     </tr>
                     </thead>
                     <tbody>
-                    {this.listUser &&
-                    this.listUser.slice(1).map(row => {
-                        return (
-                            <tr>
-                                {row.value.map(data => {
-                                    return (
-                                        <td>
-                                            {data}
-                                        </td>
-                                    );
-                                })}
-                            </tr>
-                        );
-                    })}
+                    <tr>
+                    </tr>
                     </tbody>
                 </table>
             </div>

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dbe7ddde-be73-46ed-a1fa-f85edf893075" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Utilisateur/utilisateur.liste.page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Utilisateur/utilisateur.liste.page.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/services/auth.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="21" selection-end-column="19" />
+              <caret line="21" column="19" selection-start-line="15" selection-start-column="16" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -55,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Components/Utilisateur/utilisateur.liste.page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+            <state relative-caret-position="356">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -68,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/src/Login/login.page.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="e#191#260#0" expanded="true" />
@@ -297,7 +298,7 @@
       <workItem from="1558430437199" duration="52000" />
       <workItem from="1559996363756" duration="29147000" />
       <workItem from="1560068806366" duration="9996000" />
-      <workItem from="1560090819378" duration="5251000" />
+      <workItem from="1560090819378" duration="7842000" />
     </task>
     <task id="LOCAL-00001" summary="gestion user">
       <created>1560091025490</created>
@@ -310,13 +311,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53637000" />
+    <option name="totallyTimeSpent" value="56228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -327,7 +328,7 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,7 +537,7 @@
     <entry file="file://$PROJECT_DIR$/src/Login/login.page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#191#260#0" expanded="true" />
@@ -547,7 +548,7 @@
     <entry file="file://$PROJECT_DIR$/src/services/auth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="21" selection-end-column="19" />
+          <caret line="21" column="19" selection-start-line="15" selection-start-column="16" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -560,8 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Utilisateur/utilisateur.liste.page.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        <state relative-caret-position="356">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
